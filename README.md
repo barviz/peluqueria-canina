@@ -1,4 +1,4 @@
-# Peluqueria Canina
+# Peluquería Canina
 
 ## Programa ONE: formación de Principiante en Programación
 
