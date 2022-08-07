@@ -1,5 +1,8 @@
-# peluqueria-canina
-Front End Estático ONE - Oracle + Alura LATAM
+# Peluqueria Canina
+
+## Programa ONE: formación de Principiante en Programación
+
+### Proyecto de front-end donde se desarrolla una página web básica
 
 Deployed: https://barviz.github.io/peluqueria-canina/index.html
 
